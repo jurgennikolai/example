@@ -10,3 +10,9 @@ function build(){
 
 build()
 
+function feature01(){
+    console.log("Feature 01")
+}
+
+feature01()
+
