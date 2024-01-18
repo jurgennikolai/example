@@ -3,3 +3,10 @@ function test(){
 }
 
 test()
+
+function build(){
+    console.log("Esta función realiza el deployeo")
+}
+
+build()
+
