@@ -16,3 +16,8 @@ function feature01(){
 
 feature01()
 
+function feature02(){
+    console.log("Feature 02")
+}
+
+feature02()
