@@ -14,3 +14,8 @@ export function shared_addingvar() {
 export function shared_newFeature(){
     return true;
 }
+
+/* addDivs(), .... */
+export function shared_addDivs(){
+    return 'Hello';
+}
