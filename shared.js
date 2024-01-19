@@ -9,3 +9,8 @@ export function shared_addingvar() {
         a: "b"
     }
 };
+
+
+export function shared_newFeature(){
+    return true;
+}
