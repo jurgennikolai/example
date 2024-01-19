@@ -12,5 +12,8 @@ export function shared_addingvar() {
 
 
 export function shared_newFeature(){
+    const fixedbug= false;
+    
     return true;
 }
+
